@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashing and Salting", "Hashing and Salting.csproj", "{F4E0177A-B33B-410F-BBDF-6C3D5E1E0624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E0177A-B33B-410F-BBDF-6C3D5E1E0624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E0177A-B33B-410F-BBDF-6C3D5E1E0624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E0177A-B33B-410F-BBDF-6C3D5E1E0624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E0177A-B33B-410F-BBDF-6C3D5E1E0624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E605C9E7-9B22-441A-AD48-3DEF0C5CDE9E}
+	EndGlobalSection
+EndGlobal
